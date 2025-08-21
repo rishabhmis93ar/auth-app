@@ -1,0 +1,8 @@
+com\iimt\auth\filter\AuthFilter.class
+com\iimt\auth\dao\UserDAO.class
+module-info.class
+com\iimt\auth\servlets\LogoutServlet.class
+com\iimt\auth\utils\DBUtil.class
+com\iimt\auth\servlets\LoginServlet.class
+com\iimt\auth\model\User.class
+com\iimt\auth\servlets\RegisterServlet.class
