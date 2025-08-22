@@ -4,14 +4,14 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title>Login - Auth App</title>
+  <title>Login</title>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/styles.css"/>
+  <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/style.css"/>
 
 </head>
 <body class="bg">
 <header class="nav">
-  <div class="brand">Auth<span>App</span></div>
+  <div class="brand">User<span>Authentication</span></div>
   <nav>
   <a href="${pageContext.request.contextPath}/index.jsp" class="btn btn-ghost">Home</a>
   <a href="${pageContext.request.contextPath}/register.jsp" class="btn">Register</a>
